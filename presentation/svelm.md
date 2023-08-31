@@ -6,7 +6,7 @@ theme: gaia
 
 # Svelm
 
-Was in bei elm gelernt habe und in sevelte weiter nutzen möchte.
+Was in bei elm gelernt habe und in svelte weiter nutzen möchte.
 
 ---
 
